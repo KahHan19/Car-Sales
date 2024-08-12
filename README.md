@@ -8,6 +8,16 @@ Our company is a car dealership that sells various car models. To effectively tr
 ### Objective
 The objective of this project is to design and develop a dynamic and interactive **Car Sales Dashboard** using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
+
+## Dashboard Preview
+
+### **Page 1: Sales Overview and KPIs**
+![Dashboard Page 1](overview.png)
+
+### **Page 2: Detailed Sales Information**
+![Dashboard Page 2](detail.png)
+
+
 ---
 
 ## Problem Statement 1: KPI Requirements
@@ -54,15 +64,6 @@ A tabular grid displaying the sales trend for each company, showcasing the compa
 ### **6. Details Grid Showing All Car Sales Information:**
 Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc.
 
----
-
-## Dashboard Preview
-
-### **Page 1: Sales Overview and KPIs**
-![Dashboard Page 1](./images/dashboard-page1.png)
-
-### **Page 2: Detailed Sales Information**
-![Dashboard Page 2](./images/dashboard-page2.png)
 
 ---
 
